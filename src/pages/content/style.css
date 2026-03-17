@@ -1,0 +1,4 @@
+/* Content script styles — minimal, just hide the injected root */
+#__root {
+  display: none;
+}
